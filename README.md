@@ -1,8 +1,6 @@
-# Deploy: [angular-routing](https://angular-routing-beginner.surge.sh/)
+# Deploy: [angular-routing-beginner](https://angular-routing-beginner.surge.sh/)
 
-# AngularRouting
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
 
